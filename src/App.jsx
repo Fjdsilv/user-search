@@ -27,7 +27,6 @@ const App = () => {
         <Footer />
       </div>
     </BrowserRouter>
-
   )
 }
 export default App
